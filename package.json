@@ -1,0 +1,27 @@
+{
+  "name": "con8",
+  "version": "1.0.0",
+  "description": "Connect",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev" : "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkrajashan/con8.git"
+  },
+  "keywords": [
+    "NODE",
+    "JS"
+  ],
+  "author": "MkrajaShan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkrajashan/con8/issues"
+  },
+  "homepage": "https://github.com/mkrajashan/con8#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
